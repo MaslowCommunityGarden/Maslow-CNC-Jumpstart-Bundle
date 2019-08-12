@@ -22,3 +22,18 @@ EXCLUSIVE – These are items only found in the MakerMade version of the Maslow 
 For those who want to hit the ground running as fast as possible, this 18in, custom sled makes for easier assembly, faster build time, and smooth movement across your work surface.
 
 ![Maker Made Sled](https://github.com/MaslowCommunityGarden/Maslow-CNC-Jumpstart-Bundle/blob/master/makerMadeSled.png)
+
+## The Most Comprehensive Assembly Guide
+
+![Maslow Assembly Guide](https://github.com/MaslowCommunityGarden/The-Original-Maslow-CNC/blob/master/maslowAssemblyGuide.png)
+
+## Free Membership to the Maker Made CNC Owners Facebook Group
+With you purchase, you’re automatically eligible to enrol in the MM Owners Group, where you’ll have access to a fantastic community of makers, first look at what’s in development, access to give-aways, and opportunity to even beta test product! This is in no way meant to be a replacement for the amazing community forum available here online, but supplimentary material available on your mobile device and access to others that have a kit from Maker Made CNC.
+
+![Maker Made Owners Group](https://github.com/MaslowCommunityGarden/The-Original-Maslow-CNC/blob/master/makerMadeOwnerGroup.png)
+
+## The Maker Made Guarantee
+
+At MakerMade, we are committed to offering a fantastic product and great support. If there is an issue with the product you receive, we will make it right as quickly as possible.
+
+## Head over to [Maker Made CNC](https://www.makermadecnc.com/shop) to order!
