@@ -1,3 +1,5 @@
 # Maslow CNC Jumpstart Bundle
 
-A place holder one sentence description
+## Includes one bit and pre-made sled!!
+
+The absolute shortest distance between kit and machine
