@@ -1,5 +1,6 @@
 {
-"ModerationLevel": "communityManaged",
-"Facilitator": "barboursmith",
+"ModerationLevel": "customManaged",
+"Facilitator": "skilescm",
+"Price": "$549",
 "Category": "market"
 }
