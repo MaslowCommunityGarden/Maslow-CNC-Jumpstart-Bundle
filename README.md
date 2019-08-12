@@ -18,6 +18,8 @@ EXCLUSIVE – These are items only found in the MakerMade version of the Maslow 
 
 ![Jump Start Kit Contents](https://github.com/MaslowCommunityGarden/Maslow-CNC-Jumpstart-Bundle/blob/master/jumpStartKitContents.png)
 
+![Jump Start Kit Layout](https://github.com/MaslowCommunityGarden/Maslow-CNC-Jumpstart-Bundle/blob/master/jumpStartLayout.png)
+
 ![Maker Made Bits](https://github.com/MaslowCommunityGarden/Maslow-CNC-Jumpstart-Bundle/blob/master/makerMadeBits.png)
 
 ## Custom, Hand-Made Sled with Ring and Router Alignment Guides: 
