@@ -17,3 +17,8 @@ If you're looking for the shortest distance between purchase and production, thi
 EXCLUSIVE – These are items only found in the MakerMade version of the Maslow CNC
 
 ![Jump Start Kit Contents](https://github.com/MaslowCommunityGarden/Maslow-CNC-Jumpstart-Bundle/blob/master/jumpStartKitContents.png)
+
+## Custom, Hand-Made Sled with Ring and Router Alignment Guides: 
+For those who want to hit the ground running as fast as possible, this 18in, custom sled makes for easier assembly, faster build time, and smooth movement across your work surface.
+
+![Maker Made Sled](https://github.com/MaslowCommunityGarden/Maslow-CNC-Jumpstart-Bundle/blob/master/makerMadeSled.png)
