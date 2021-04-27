@@ -1,7 +1,3 @@
-Edit this file to add assembly instructions
+The Maker300 is an in-house design, the result of years of experience from our team in 3D printing. We realized that a simpler, better-printing, more user-friendly option was within reach. Months of component research, scouring consumer feedback, and design testing have resulted in the entirely new product you see here. Simultaneously familiar and revolutionary in design, the Maker300 from MakerMade will become an integral companion to any maker.
 
-You can find instructions on how to edit this page on the community garden meta page [here](http://maslowcommunitygarden.org/Website.html?instructions=true)
-
-
-
-The style cheat sheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is useful
+[More information available here!](https://www.makermadecnc.com/product/the-makermade-3d-printer-mm300/)
