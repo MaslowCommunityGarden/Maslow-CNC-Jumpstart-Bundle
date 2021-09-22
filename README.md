@@ -1,6 +1,6 @@
 # The Maker Made 300x 3D Printer
 
-## A 3D Printer with practical features for creative creatures.
+## M2 Sled Camera
 
 ### Use promo code MASLOW10 for 10% off your order!
 
