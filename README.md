@@ -6,7 +6,7 @@
 
 ### In stock with free projects, software, and support all included.
 
-### Visit [Maker Made](http://www.makermade.com) to order.
+### Visit [MakerMade](http://www.makermade.com) to order.
 
 ## Product Summary:
 
@@ -28,8 +28,7 @@ Three user-friendly modes of operation:
 
 At Maker Made, we are committed to offering a fantastic product and great support. If there is an issue with the product you receive, we will make it right as quickly as possible.
 
-### Head over to [Maker Made](http://www.makermade.com/shop) to order!
-
+### Head over to [MakerMade](http://www.makermade.com/shop) to order!
 
 
 
