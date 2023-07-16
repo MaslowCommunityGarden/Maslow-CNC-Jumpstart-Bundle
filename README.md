@@ -1,7 +1,7 @@
 # M2 Sled Camera
 
 
-![enter image description here](https://github.com/anthonygilbertt/Maslow-CNC-Jumpstart-Bundle/blob/Update-September-21-2021/Camera.jpeg)
+![enter image description here](https://github.com/MaslowCommunityGarden/Maslow-CNC-Jumpstart-Bundle/blob/master/Camera.jpeg)
 ## M2 Sled Camera
 
 COMING SOON!
